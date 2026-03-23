@@ -1,6 +1,6 @@
 ## Hi there, I'm Michelle! 👋
 
-First-generation college graduate with a non-traditional background interested in backend development and building meaningful software that solve real world problems - especially 
+First-generation college graduate with a non-traditional background in healthcare and higher education interested in backend development and building meaningful software that solve real world problems - especially 
 in healthcare and data-driven applications. Welcome to my GitHub!
 
 ### Tech-Stack
