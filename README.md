@@ -1,4 +1,5 @@
 ## Hi there, I'm Michelle! 👋
+
 First-generation college graduate interested in backend development and building meaningful software that solve real world problems - especially 
 in healthcare and data-driven applications. Welcome to my GitHub!
 
