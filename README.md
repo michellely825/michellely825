@@ -1,7 +1,8 @@
 ## Hi there, I'm Michelle! 👋
 
-First-generation college graduate with a non-traditional background in healthcare and higher education. Specifically interested in backend development and building meaningful software that solve real world problems especially 
-in data-driven applications. Welcome to my GitHub!
+First-generation college graduate with a non-traditional background in healthcare and higher education. Specifically interested in backend development and building meaningful software that solves real world problems particularly in data-driven applications. 
+
+Explore my projects here on GitHub!
 
 ### Tech-Stack
 
