@@ -6,7 +6,7 @@ Explore my projects here on GitHub!
 
 ## What I'm Currently Working On
 - Extending my Hospital Readmission API and Dashboard into a machine learning project focused on predicting patient readmission, shifting from descriptive analytics to predictive modeling. Essentially, leveling it up from “here’s what happened” to “here’s what’s likely to happen.” Check out my progress here: [Hospital-Readmission-MachineLearning](https://github.com/michellely825/Hospital-Readmission-MachineLearning)
-- Finishing up a front-end project I started 2 years ago called myLifeInFrames, a visual storytelling grid of my journey. View it here: [myLifeInFrames](https://michellely825.github.io/MyLifeInFrames/)
+- Finishing up a front-end project I started 2 years ago called MyLifeInFrames, a visual storytelling grid of my journey. View it here: [MyLifeInFrames](https://michellely825.github.io/MyLifeInFrames/)
 
 ### Tech-Stack
 
