@@ -5,7 +5,7 @@ First-generation college graduate with a non-traditional background in healthcar
 Explore my projects here on GitHub!
 
 ## What I'm Currently Working On
-- Currently strengthening my backend engineering and SQL skills by building a habit-tracking API in Python (FastAPI + PostgreSQL + JWT auth). Take a look at my progress here: [Habit-Tracker](http://michelle(https://github.com/michellely825/HabitTracker)
+- Currently strengthening my backend engineering and SQL skills by building a habit-tracking API in Python (FastAPI + PostgreSQL + JWT auth). Take a look at my progress here: [Habit-Tracker](https://github.com/michellely825/HabitTracker)
 - Extending my Hospital Readmission API and Dashboard into a machine learning project focused on predicting patient readmission, shifting from descriptive analytics to predictive modeling. Essentially, leveling it up from “here’s what happened” to “here’s what’s likely to happen.” Check it out here: [Hospital-Readmission-MachineLearning](https://github.com/michellely825/Hospital-Readmission-MachineLearning)
 - Finishing up a front-end project I started 2 years ago called MyLifeInFrames, a visual storytelling grid of my journey. View it here: [MyLifeInFrames](https://michellely825.github.io/MyLifeInFrames/)
 
